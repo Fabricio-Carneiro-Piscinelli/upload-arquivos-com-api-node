@@ -1,4 +1,4 @@
-# Upload de Arquivos com API NodeJs
+# Upload de Arquivos com API NodeJs e React
 ### neste e exemplo de upload vou utilizar uma aplicação simples em NodeJs como back-end e  Reactjs com cliente. Mas enfim sem enrolação vamos “codar” 
 <img src="https://i.pinimg.com/originals/fb/d6/36/fbd636d695a9c16d1a24cb850241f943.gif" />
 
@@ -48,14 +48,17 @@ app.listen(port, () => {
 
  ```
  ##### Obs.: Não esqueça de criar na raiz do seu projeto, a pasta <i>Uploads</i>, feito tudo isso de o `npm install` caso tenha clonado meu projeto.
- ##### Bom para testarmos vamos criar nosso app no React.js para podermos fazer o Upload.
- ```
+##### Bom para testarmos vamos criar nosso app no React.js para podermos fazer o Upload.
+
+### iniciar nosso ReactJs
+```
  npx create-react-app app-react
  npm install axios --save 
  cd app-react
  npm start
 
 ```
+
 ##### Nosso <i>App.js</i>  deverá ficar mais ou menos assim: 
 
 ```
