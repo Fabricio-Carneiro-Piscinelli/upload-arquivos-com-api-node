@@ -48,5 +48,16 @@ app.listen(port, () => {
 
  ```
  ##### Obs.: Não esqueça de criar na raiz do seu projeto, a pasta <i>Uploads</i>, feito tudo isso de o `npm install` caso tenha clonado meu projeto.
- ##### Bom para testarmos vamos criar nossa class no React.js para podermos fazer o Upload.
+ ##### Bom para testarmos vamos criar nosso app no React.js para podermos fazer o Upload.
+ ```
+ npx create-react-app app-react
+ npm install axios --save 
+ cd app-react
+ npm start
+
+```
+  
+
+ 
+ ```
  
