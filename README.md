@@ -118,4 +118,4 @@ export default App
 
 <img src="https://media2.giphy.com/media/S3Ot3hZ5bcy8o/giphy.gif" />
 
-#### Vou estar deixando o código backEnd e o FrontEnd para clone, então 
+#### Vou estar deixando o código backEnd e o FrontEnd para clone, então agora só alegria 
