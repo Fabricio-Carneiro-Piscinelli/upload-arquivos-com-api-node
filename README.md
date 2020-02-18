@@ -117,4 +117,5 @@ export default App
 #### Se tudo deu 100% certo starta seu node server e seu cliente React, faça um upload e veja os arquivos caírem na pasta uploads 
 
 <img src="https://media2.giphy.com/media/S3Ot3hZ5bcy8o/giphy.gif" />
+
 #### Vou estar deixando o código backEnd e o FrontEnd para clone, então 
